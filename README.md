@@ -124,4 +124,7 @@ Execute the programs and publish them.
 ### Islamiah School
 ![](./hospital.png)
 ## Result:
-Write your result
+ 
+ The program is completed successfully.
+ 
+ 
