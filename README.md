@@ -122,7 +122,7 @@ To develop a website to display details about the places around my house.
 ###  hospital output
 ![](./hospital.png)
 ### Islamiah School
-![](./hospital.png)
+![](./Islamiah School.png)
 ## Result:
  
  The program is completed successfully.
