@@ -2,24 +2,24 @@
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## Design Steps:
-### STEP 1 
-Create a Django admin interface.
+## ALGORITHM
 
-### STEP 2 
-Download your city map from Google.
+1.Create a Django admin interface.
 
-### STEP 3 
-Using tag name the map.
 
-### STEP 4 
-Create clickable regions in the image using tag.
+2.Download your city map from Google.
 
-### STEP 5 
-Write HTML programs for all the regions identified.
 
-### STEP 6 
-Execute the programs and publish them.
+3.Using tag name the map.
+
+
+4.Create clickable regions in the image using tag.
+
+
+5.Write HTML programs for all the regions identified.
+
+ 
+6.Execute the programs and publish them.
 ## Code:
 ### map .html
 ```html
